@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+   
+    height: 18vh;
+}
+
+
+.main{
+    height: 82vh;
+    background: ;
+    padding: 0px 250px;
+    padding-top: 25px;
+    background: rgb(247, 247, 247);
+}
+
+.main h3{
+    padding-top: 11px;
+   
+}
+
+
+.list{
+    margin-left: -21px;
+   padding-top: 5px;
+}
